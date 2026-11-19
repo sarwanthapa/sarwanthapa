@@ -6,7 +6,7 @@
 
 # Hi, I'm Shrawan Thapa Magar 👋
 
-I'm a **software engineer and IT officer** based in **Kathmandu, Nepal**. I build full-stack web applications, with a focus on **PHP and Laravel**, and help organizations manage websites, servers, and learning platforms.
+Based in **Kathmandu, Nepal**, I work across **software engineering and IT operations**. I develop full-stack web applications with **PHP and Laravel** and maintain the websites, servers, and learning management systems that organizations rely on.
 
 [Portfolio](https://shrawanthapamagar.com.np/) · [Email me](mailto:myname.sarwan@gmail.com)
 
