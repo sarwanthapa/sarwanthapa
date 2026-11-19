@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1180" height="610" viewBox="0 0 1180 610" role="img" aria-label="Shrawan Thapa Magar — Software Engineer · IT Officer" aria-describedby="description">
   <title>Shrawan Thapa Magar — Software Engineer · IT Officer</title>
-  <desc id="description">Kathmandu, Nepal. Maatri Nepal Learning Services Limited. Full-stack web development · IT operations. PHP. Laravel. Java. Avant Garde Solutions MIS</desc>
+  <desc id="description">Kathmandu, Nepal. Maatri Nepal Learning Services Limited. Full-stack web development · IT operations. PHP. Laravel. SEO. Graphic Design. Management Information System. Attendance · Leave · HR System · Client Management · Field Management</desc>
   <style>
     text { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; fill: #f4f8ff; }
     .label { font-size: 14px; font-weight: 700; letter-spacing: 2px; fill: #a8bbd1; }
@@ -160,14 +160,16 @@
       <circle cx="676" cy="386" r="3" fill="#50cfc1"/>
       <text x="687" y="391" font-size="15">Laravel</text><rect x="771" y="370" width="80" height="32" rx="7" fill="#0a1424" stroke="#34465d"/>
       <circle cx="784" cy="386" r="3" fill="#50cfc1"/>
-      <text x="795" y="391" font-size="15">Java</text>
+      <text x="795" y="391" font-size="15">SEO</text><rect x="861" y="370" width="161" height="32" rx="7" fill="#0a1424" stroke="#34465d"/>
+      <circle cx="874" cy="386" r="3" fill="#50cfc1"/>
+      <text x="885" y="391" font-size="15">Graphic Design</text>
     </g>
     <g class="reveal"><animate class="motion" attributeName="opacity" from=".72" to="1" begin="0.93s" dur=".42s" fill="freeze"/>
       <rect x="484" y="440" width="636" height="80" rx="10" fill="#0a1424" stroke="#34465d"/>
       <path d="M497 455v50" stroke="url(#signal)" stroke-width="2"/>
       <text x="513" y="462" class="label">SELECTED PROJECT</text>
-      <text x="513" y="485" font-size="17" font-weight="700">Avant Garde Solutions MIS</text>
-      <text x="513" y="506" font-size="14" class="muted">Management information system</text>
+      <text x="513" y="485" font-size="17" font-weight="700">Management Information System</text>
+      <text x="513" y="506" font-size="14" class="muted">Attendance · Leave · HR System · Client Management · Field Management</text>
     </g>
   </g>
   <rect x="1" y="1" width="1178" height="608" rx="24" fill="none" stroke="#34465d" stroke-width="2"/>
